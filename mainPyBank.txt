@@ -1,0 +1,15 @@
+C:\Users\wesan\PycharmProjects\pythonProject1\venv\Scripts\python.exe "C:\Program Files\JetBrains\PyCharm Community Edition 2022.1\plugins\python-ce\helpers\pydev\pydevconsole.py" --mode=client --port=54560
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['C:\\Users\\wesan', 'C:/Users/wesan'])
+PyDev console: starting.
+Python 3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13) [MSC v.1929 64 bit (AMD64)] on win32
+runfile('C:/Users/wesan/projects/python-challenge/mainPyBank.py', wdir='C:/Users/wesan/projects/python-challenge')
+----------------------------------------------------------
+Financial Analysis
+----------------------------------------------------------
+Total Months: 86
+Total Profits: $22564198
+Average Change: $4448
+Greatest Increase in Profits: Aug-16 ($1862002)
+Greatest Decrease in Profits: Feb-14 ($-1825558)
+----------------------------------------------------------
